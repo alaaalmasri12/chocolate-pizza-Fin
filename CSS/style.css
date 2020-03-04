@@ -88,14 +88,18 @@ section p
     padding-top: 20px;
 }
 
-
+.list-metrial
+{
+   position: relative;
+    bottom: 15%;
+} 
 
 #materials {
     padding: 7%;
     background-image: url(../img/list-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 350px;
+    height: 160px;
 }
 input [type="checkbox"]
 {
